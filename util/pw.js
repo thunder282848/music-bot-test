@@ -33,8 +33,12 @@ module.exports = {
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 
    
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  ## Created by thunder!                                                ║
+║  ## Feel free to utilize any portion of the code                       ║
+║  ## instagram :  https://www.instagram.com/good_boy_two/               ║
+║  ## telegram : https://t.me/alone_thunder                              ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 */
