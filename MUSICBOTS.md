@@ -1,5 +1,5 @@
 
-# Music Bot GlaceYT
+# Music Bot THUNDER
 
 ## Overview
 
